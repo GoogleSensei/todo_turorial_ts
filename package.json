@@ -1,0 +1,30 @@
+{
+  "name": "todo_turorial_ts",
+  "version": "1.0.0",
+  "description": "todo tutorial by Typescript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoogleSensei/todo_turorial_ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoogleSensei/todo_turorial_ts/issues"
+  },
+  "homepage": "https://github.com/GoogleSensei/todo_turorial_ts#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
